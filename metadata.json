@@ -1,0 +1,6 @@
+{
+  "name": "REQUISIÇÃO DE MATERIAL",
+  "description": "Sistema de requisição e registro de pedidos de camisetas (azuis e brancas) com geração de PDF, envio por e-mail e banco de dados.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
